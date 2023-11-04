@@ -1,7 +1,7 @@
 void setup() 
 {
   //configurazione pin 
-  pinMode(10, OUTPUT);
+  pinMode(10, OUTPUT); //??
   pinMode(8, OUTPUT);
   pinMode(9, OUTPUT); 
 }
